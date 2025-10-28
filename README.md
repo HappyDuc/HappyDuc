@@ -1,7 +1,7 @@
 # Jake Sinclair
 ## CompSci Student | Aspiring Software Developer
 
-Check out my portfolio site: happyduc.github.io/Portfolio-Site/
+Check out my portfolio site: [Link](https://happyduc.github.io/Portfolio-Site/)
 
 - Programming Languages:
     - Python
