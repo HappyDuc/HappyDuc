@@ -1,5 +1,5 @@
 # About Me:
-I am a third year Computer Science student at university<br>Aspiring Software Developer<br>Proficient a vast array of topics and fields<br>Work well in teams and solo<br>Strive for high quality and correctness<br>Check out my (WIP) portfolio site: [Link](https://happyduc.github.io/Portfolio-Site/)
+I am a third year Computer Science student at university<br>Aspiring Software Developer<br>Proficient in a vast array of topics and fields<br>Work well in teams and solo<br>Strive for high quality and correctness<br>Check out my (WIP) portfolio site: [Link](https://happyduc.github.io/Portfolio-Site/)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jakesinclair4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jake-sinclair-305584221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakewilliamsinclair@gmail.com) 
